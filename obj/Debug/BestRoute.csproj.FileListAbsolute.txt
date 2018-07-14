@@ -1,0 +1,9 @@
+D:\CSharp\BestRoute\BestRoute\bin\Debug\BestRoute.exe.config
+D:\CSharp\BestRoute\BestRoute\bin\Debug\BestRoute.exe
+D:\CSharp\BestRoute\BestRoute\bin\Debug\BestRoute.pdb
+D:\CSharp\BestRoute\BestRoute\obj\Debug\BestRoute.csprojResolveAssemblyReference.cache
+D:\CSharp\BestRoute\BestRoute\obj\Debug\BestRoute.exe
+D:\CSharp\BestRoute\BestRoute\obj\Debug\BestRoute.pdb
+D:\CSharp\BestRoute\BestRouteGit\BestRoute\bin\Debug\BestRoute.exe.config
+D:\CSharp\BestRoute\BestRouteGit\BestRoute\obj\Debug\BestRoute.exe
+D:\CSharp\BestRoute\BestRouteGit\BestRoute\obj\Debug\BestRoute.pdb
